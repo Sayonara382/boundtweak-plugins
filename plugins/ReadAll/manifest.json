@@ -1,0 +1,15 @@
+{
+    "name": "Read All",
+    "description": "Read all server channel notifications with a single button click",
+    "authors": [
+        {
+            "name": "sayonaraxwho",
+            "id": "330643070670602240"
+        }
+    ],
+    "main": "src/index.tsx",
+    "vendetta": {
+        "icon": "ic_chat_bubble_16px"
+    },
+    "version": "1.0.0"
+}
